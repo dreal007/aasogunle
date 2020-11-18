@@ -10216,9 +10216,9 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 
 .slider-container .main-label {
 	color: #FFF;
-	font-size: 62px;
-	line-height: 62px;
-	font-weight: 800;
+	font-size: 35px;
+	line-height: 50px;
+	font-weight: 600;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
 }
 
