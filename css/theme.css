@@ -5737,6 +5737,10 @@ h6 .inverted {
 }
 
 /* Scale */
+.scale-075 {
+	-webkit-transform: scale(0.75) !important;
+	transform: scale(0.75) !important;
+}
 .scale-1 {
 	-webkit-transform: scale(1.1) !important;
 	transform: scale(1.1) !important;
